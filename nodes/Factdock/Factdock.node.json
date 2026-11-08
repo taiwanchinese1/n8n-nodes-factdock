@@ -1,0 +1,18 @@
+{
+	"node": "n8n-nodes-factdock",
+	"nodeVersion": "1.0",
+	"codexVersion": "1.0",
+	"categories": ["Data & Storage", "Productivity"],
+	"resources": {
+		"credentialDocumentation": [
+			{
+				"url": "https://github.com/taiwanchinese1/n8n-nodes-factdock?tab=readme-ov-file#credentials"
+			}
+		],
+		"primaryDocumentation": [
+			{
+				"url": "https://github.com/taiwanchinese1/n8n-nodes-factdock?tab=readme-ov-file"
+			}
+		]
+	}
+}

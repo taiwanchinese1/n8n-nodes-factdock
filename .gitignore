@@ -1,0 +1,4 @@
+dist
+node_modules
+
+.local-n8n-test-login.txt
