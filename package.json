@@ -19,7 +19,10 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/taiwanchinese1/n8n-nodes-factdock.git"
+		"url": "git+https://github.com/taiwanchinese1/n8n-nodes-factdock.git"
+	},
+	"publishConfig": {
+		"access": "public"
 	},
 	"scripts": {
 		"build": "n8n-node build",
