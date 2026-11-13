@@ -1,6 +1,6 @@
 {
 	"name": "n8n-nodes-factdock",
-	"version": "0.1.1",
+	"version": "0.1.2",
 	"description": "n8n node for Factdock, a multilingual search engine for primary sources: country web search, academic papers, patents, company reports, trade rules, infrastructure projects, finance indicators and Insights news, with source URLs.",
 	"license": "MIT",
 	"homepage": "https://github.com/taiwanchinese1/n8n-nodes-factdock#readme",
